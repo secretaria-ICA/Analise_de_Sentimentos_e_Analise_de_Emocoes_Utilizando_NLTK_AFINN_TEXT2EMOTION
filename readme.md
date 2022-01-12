@@ -26,7 +26,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 
 
-Este trabalho buscou explorar o processo BI desde a obtenção da informação realizando a obtenção dos tweets diariamente extraindo 15.000 por dia, filtrando o retweets.
+Este trabalho buscou explorar o processo BI desde a obtenção da informação que neste caso são tweets que foram extraídos diariamente 15.000 por dia, filtrando o retweets.
 Após e extração os arquivos foram concatenados em um único arquivo com 210.303 registros.
 Este arquivo único foi analisado e teve os sentimentos  e emoções classificados.
 Para a análise de sentimentos foram utilizados o NLTK e o AFINN, para a análise de emoções foi utilizado o TEXT2EMOTION,com as classficações gravadas em arquivos para análise psterior.  
