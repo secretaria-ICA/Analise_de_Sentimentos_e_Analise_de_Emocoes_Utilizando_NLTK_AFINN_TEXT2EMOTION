@@ -1,5 +1,5 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
-# Análise de Sentimentos  Comparando a Acurácia na Utilzação do NLTK e AFFIN e A Análise de Emoções Utilizando o TEXT2EMOTIONS
+# Análise de Sentimentos  Comparando a Acurácia na Utilzação do NLTK e AFINN e A Análise de Emoções Utilizando o TEXT2EMOTION
 
 #### Aluno: [Fábio Mendonça dos Santos](https://github.com/link_do_github)
 #### Orientador: [Leonardo Alfredo Forero Mendonza](https://github.com/link_do_github) .
@@ -29,7 +29,9 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 Este trabalho buscou explorar o processo BI desde a obtenção da informação realizando a obtenção dos tweets diariamente extraindo 15.000 por dia, filtrando o retweets.
 Após e extração os arquivos foram concatenados em um único arquivo com 210.303 registros.
 Este arquivo único foi analisado e teve os sentimentos  e emoções classificados.
-Após a classificação dos sentimentos e emoções que foram gravados em outros arquivo, foram aplicados os pré-processamentos para retirar o que não serve para as análises de sentimentos e emoções feitas com a utilização de redes neurias.
+Para a análise de sentimentos foram utilizados o NLTK e o AFINN, para a análise de emoções foi utilizado o TEXT2EMOTION,com as classficações gravadas em arquivos para análise psterior.  
+Após a classificação dos sentimentos e emoções, foram aplicados os pré-processamentos para retirar o que não serve para as análises de sentimentos e emoções feitas com a utilização de redes neurias.
+
 
 ### Abstract <!-- Opcional! Caso não aplicável, remover esta seção -->
 
