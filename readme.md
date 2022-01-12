@@ -1,9 +1,8 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
 # Título do Trabalho
 
-#### Aluno: [Nome Sobrenome](https://github.com/link_do_github)
-#### Orientadora: [Nome Sobrenome](https://github.com/link_do_github) e [Nome Sobrenome](https://github.com/link_do_github).
-#### Co-orientador(/a/es/as): [Nome Sobrenome](https://github.com/link_do_github) e [Nome Sobrenome](https://github.com/link_do_github). <!-- caso não aplicável, remover esta linha -->
+#### Aluno: [Fábio Mendonça dos Santos](https://github.com/link_do_github)
+#### Orientador: [Leonardo Alfredo Forero Mendonza](https://github.com/link_do_github) .
 
 ---
 
@@ -66,7 +65,7 @@ Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis
 
 ---
 
-Matrícula: 123.456.789
+Matrícula: 201.190.260
 
 Pontifícia Universidade Católica do Rio de Janeiro
 
