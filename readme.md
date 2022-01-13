@@ -37,7 +37,7 @@ Após a classificação dos sentimentos e emoções, foram aplicados os pré-pro
 
 Em tempos de reclusão e lockdown nunca as redes sociais foram tão utilizadas, uma pergunta emerge, como estão os sentimentos (positivos, negativos, neutros) e as emoções (medo, felicidade, tristeza, raiva, surpreza) dos usuários das redes sociais?</br>
 Para tentar responder a esta pergunta e verificar quais sentimentos e emoções são os mais frequentes, foi escolhida uma das redes sociais mais utilizadas o tweeter.</br> 
-Os tweets foram extraídos sem selecionar um assunto específico, apenas selecinando o pais, neste caso os EUA e o idioma inglês, filrando os retweets, pois o objetivo é analisar apenas os sentimentos e emoções, sem considerar as palavras mais comuns.</br>
+Os tweets foram extraídos, no período de 03/11/2021 até 23/12/2021, sem selecionar um assunto específico, apenas selecinando o pais, neste caso os EUA e o idioma inglês, filrando os retweets, pois o objetivo é analisar apenas os sentimentos e emoções, sem considerar as palavras mais comuns.</br>
 
 
 ### 2. Modelagem
