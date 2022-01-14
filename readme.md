@@ -46,29 +46,23 @@ Dentro da Inteligência Artificial existe uma área que busca desenvolver a capa
 
 ### A NLP possui as seguintes aplicações</br>
 
-• Ferramentas de busca online
-
-• Comandos de voz
-
-• Chatbots
-
-• Assistentes Virtuais
-
-• Previsão de pesquisas em ferramentas de buscas
+- Ferramentas de busca online
+- Comandos de voz
+- Chatbots
+- Assistentes Virtuais
+- Previsão de pesquisas em ferramentas de buscas
 
 ### Etapas envolvidas em um projeto de NLP
 
 - Frase (sentença)
-
 - Tokenização
-
 - Pré-processamento
-
 - Remoção de stopwords
-
 - Lematização
-
 - Análise de sentimentos e emoções
+- Deep Learning redes CNN e LSTM com Embedings 
+
+
 
 ### 3. Modelagem
 
