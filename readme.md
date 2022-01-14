@@ -44,7 +44,7 @@ Para tentar responder a esta pergunta e verificar quais sentimentos e emoções 
 
 Dentro da Inteligência Artificial existe uma área que busca desenvolver a capacidade da tecnologia no entendimentonda linguagem humana esta área recebe o nome de NLP (Natural Language Processing).</br>
 
-A NLP possui as seguintes aplicações</br>
+### A NLP possui as seguintes aplicações</br>
 
 • Ferramentas de busca online
 
