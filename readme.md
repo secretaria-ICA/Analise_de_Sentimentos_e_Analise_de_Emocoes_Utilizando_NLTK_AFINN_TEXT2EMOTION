@@ -71,8 +71,8 @@ Dentro da Inteligência Artificial existe uma área que busca desenvolver a capa
 - Estração dos dados do Tweeter
 - Concatenação dos arquivos extraídos em um único arquivo
 - Classificação de sentimentos utilizando NLTK e AFINN e classificação de emoções utilizando TEXT2EMOTION
-- Análise estatística após a classificação para verificar a distribuição dos sentimentos e emoções com análise de polaridade
-- Gravação do arquivos com as classificações das emoções e sentimentos
+- Análise estatística após a classificação para verificar os quantitativo dos sentimentos e emoções com análise de polaridade
+- Gravação do arquivo com as classificações das emoções e sentimentos
 - Pré-pocessamento de texto com remoção de stopwords , caracteres e números, expanção de contrações e a aplicação da biblioteca [emoji](https://pypi.org/project/emoji/), para converter emoji em expressões.
 - Aplicação de algorítmos de deep learning para realizar as análises de sentimento utlizando NLTK sem embedings e com embedings
 - Aplicação de algorítmos de deep learning para realizar as análises de sentimento utlizando AFINN sem embedings e com embedings
