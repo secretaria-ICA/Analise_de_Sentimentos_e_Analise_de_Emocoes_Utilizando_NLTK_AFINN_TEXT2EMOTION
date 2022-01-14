@@ -19,6 +19,7 @@ Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como
 
 - Link para os arquivos utilizados
 - [tweets_csv_projeto.zip](https://github.com/fmansantos/TCC-BI-MASTER/blob/main/tweets_csv_projeto.zip)
+- [tweets_csv_classified.zip](https://github.com/fmansantos/TCC-BI-MASTER/blob/main/tweets_csv_classified.zip)
 
 
 ---
