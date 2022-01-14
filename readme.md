@@ -40,13 +40,29 @@ Após a classificação dos sentimentos e emoções, foram aplicados os pré-pro
 Em tempos de reclusão e lockdown nunca as redes sociais foram tão utilizadas, uma pergunta emerge, como estão os sentimentos (positivos, negativos, neutros) e as emoções (medo, felicidade, tristeza, raiva, surpresa) dos usuários das redes sociais?</br>
 Para tentar responder a esta pergunta e verificar quais sentimentos e emoções são os mais frequentes, foi escolhida uma das redes sociais mais utilizadas, o Twitter.</br> 
 
+### 2. Fundamentação Teórica
+
+Dentro da Inteligência Artificial existe uma área que busca desenvolver a capacidade da tecnologia no entendimentonda linguagem humana esta área recebe o nome de NLP (Natural Language Processing).</br>
+
+A NLP possui as seguintes aplicações</br>
+
+• Ferramentas de busca online
+
+• Comandos de voz
+
+• Chatbots
+
+• Assistentes Virtuais
+
+• Previsão de pesquisas em ferramentas de buscas
 
 
-### 2. Modelagem
+
+### 3. Modelagem
 
 ### Base de dados
 
-A base de dados utilizada no foi obtida extraindo os tweets utilizando a biblioteca [tweepy v3.10.0](https://docs.tweepy.org/en/v3.10.0/). </br>
+A base de dados utilizada foi extraída do Tweeter utilizando a biblioteca [tweepy v3.10.0](https://docs.tweepy.org/en/v3.10.0/). </br>
 As extrações foram feitas diariamente, gerando arquivos com 15.000 tweets.</br>
 Os tweets foram extraídos, no período de 03/11/2021 até 23/12/2021, sem selecionar um assunto específico, apenas selecionando o país, neste caso os 
 EUA e o idioma inglês, filtrando os retweets, pois o objetivo é analisar apenas os sentimentos e emoções, sem considerar as palavras mais comuns. </br>
@@ -55,13 +71,13 @@ Ao término da extração os arquivos foram concatenados em um único arquivo co
 
 
 
-### 3. Resultados
+### 4. Resultados
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
 
 Proin feugiat nulla sem. Phasellus consequat tellus a ex aliquet, quis convallis turpis blandit. Quisque auctor condimentum justo vitae pulvinar. Donec in dictum purus. Vivamus vitae aliquam ligula, at suscipit ipsum. Quisque in dolor auctor tortor facilisis maximus. Donec dapibus leo sed tincidunt aliquam.
 
-### 4. Conclusões
+### 5. Conclusões
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
 
