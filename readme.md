@@ -42,7 +42,7 @@ Para tentar responder a esta pergunta e verificar quais sentimentos e emoções 
 
 ### 2. Fundamentação Teórica
 
-Dentro da Inteligência Artificial existe uma área que busca desenvolver a capacidade da tecnologia no entendimentonda linguagem humana esta área recebe o nome de NLP (Natural Language Processing).</br>
+Dentro da Inteligência Artificial existe uma área que busca desenvolver a capacidade da tecnologia no entendimenton da linguagem humana, esta área recebe o nome de NLP (Natural Language Processing).</br>
 
 ### A NLP possui as seguintes aplicações</br>
 
@@ -56,7 +56,19 @@ Dentro da Inteligência Artificial existe uma área que busca desenvolver a capa
 
 • Previsão de pesquisas em ferramentas de buscas
 
+### Etapas envolvidas em um projeto de NLP
 
+- Frase (sentença)
+
+- Tokenização
+
+- Pré-processamento
+
+- Remoção de stopwords
+
+- Lematização
+
+- Análise de sentimentos e emoções
 
 ### 3. Modelagem
 
