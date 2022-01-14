@@ -66,6 +66,13 @@ Dentro da Inteligência Artificial existe uma área que busca desenvolver a capa
 
 ### 3. Modelagem
 
+### Eatapas deste Projeto
+
+- Estração dos dados do Tweeter
+- Concatanação dos arquivos extraídos em um único arquivo
+- Classificação de sentimentos utilizando NLTK e AFINN e classificação de emoções utilizando TEXT2EMOTION
+- Pré-pocessamento de texto com remoção de stopwords , caracteres e números, expanção de contrações e a aplicação da biblioteca [emoji](https://pypi.org/project/emoji/), para converter emoji em expressões.
+
 ### Base de dados
 
 A base de dados utilizada foi extraída do Tweeter utilizando a biblioteca [tweepy v3.10.0](https://docs.tweepy.org/en/v3.10.0/). </br>
