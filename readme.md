@@ -69,7 +69,7 @@ Dentro da Inteligência Artificial existe uma área que busca desenvolver a capa
 ### Eatapas deste Projeto
 
 - Estração dos dados do Tweeter
-- Concatanação dos arquivos extraídos em um único arquivo
+- Concatenação dos arquivos extraídos em um único arquivo
 - Classificação de sentimentos utilizando NLTK e AFINN e classificação de emoções utilizando TEXT2EMOTION
 - Análise estatística após a classificação para verificar a distribuição dos sentimentos e emoções com análise de polaridade
 - Gravação do arquivos com as classificações das emoções e sentimentos
