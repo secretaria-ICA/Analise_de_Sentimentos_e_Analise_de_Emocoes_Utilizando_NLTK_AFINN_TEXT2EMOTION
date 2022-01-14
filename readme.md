@@ -74,7 +74,9 @@ Dentro da Inteligência Artificial existe uma área que busca desenvolver a capa
 - Análise estatística após a classificação para verificar a distribuição dos sentimentos e emoções com análise de polaridade
 - Gravação do arquivos com as classificações das emoções e sentimentos
 - Pré-pocessamento de texto com remoção de stopwords , caracteres e números, expanção de contrações e a aplicação da biblioteca [emoji](https://pypi.org/project/emoji/), para converter emoji em expressões.
-- 
+- Aplicação de algorítmos de deep learning para realizar as análises de sentimento utlizando NLTK sem embedings e com embedddings
+- Aplicação de algorítmos de deep learning para realizar as análises de sentimento utlizando AFINN sem embedings e com embedddings
+- Aplicação de algorítmos de deep learning para realizar as análises de sentimento utlizando Text2Emotion sem embedings e com embedddings
 
 ### Base de dados
 
