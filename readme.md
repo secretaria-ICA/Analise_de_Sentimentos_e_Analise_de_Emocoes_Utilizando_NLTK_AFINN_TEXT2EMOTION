@@ -93,7 +93,9 @@ A classificação das emoções e sentimentos foi aplicada nos textos sem fazer 
 
 <img src = "img/df_colunas_com_classific.JPG">
 
-Em seguida foi feita uma análise do tamanho dos texto dos tweets.</br>
+### Análise Estatística do Tweets
+
+Análise do tamanho dos texto dos tweets.</br>
 
 <img src = "img/tamanho_texto.JPG">
 
