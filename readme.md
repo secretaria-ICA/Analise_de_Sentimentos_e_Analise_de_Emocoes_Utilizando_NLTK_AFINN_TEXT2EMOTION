@@ -90,7 +90,7 @@ Ao término da extração os arquivos foram concatenados em um único arquivo co
 
 A fase seguinte é a execução da classificação dos sentimentos em positivo, negativo , neutro e a classificação das emoções em medo, felicidade, tristeza, raiva , surpresa.
 
-<img src = "img/colunas_com_classificacao.JPG">
+<img src = "img/df_colunas_com_classificacao.JPG">
 
 ### 4. Resultados
 
