@@ -88,23 +88,23 @@ Ao término da extração os arquivos foram concatenados em um único arquivo co
 
 <img src = "img/tweets_csv_projeto.JPG">
 
-A fase seguinte é a execução da classificação dos sentimentos em positivo, negativo , neutro e a classificação das emoções em medo, felicidade, tristeza, raiva , surpresa.
+A fase seguinte é a execução da classificação dos sentimentos em positivo, negativo , neutro e a classificação das emoções em medo, felicidade, tristeza, raiva, surpresa.</br>
 
 <img src = "img/df_colunas_com_classificacao.JPG">
 
-Em seguida foi feita uma análise do tamanho dos texto dos tweets no arquivo.
+Em seguida foi feita uma análise do tamanho dos texto dos tweets no arquivo.</br>
 
 <img src = "img/figura_tamanho_texto.JPG">
 
-O quantitativo de sentimentos utilizando AFINN
+O quantitativo de sentimentos utilizando AFINN.</br>
 
 <img src = "img/total_sentimentos_afinn.JPG">
 
-O quantitativo de sentimentos utilizando NLTK
+O quantitativo de sentimentos utilizando NLTK.</br>
 
 <img src = "img/total_sentinetos_nltk.JPG">
 
-O quantitativo de emoções utilizando o TEXT2EMOTION
+O quantitativo de emoções utilizando o TEXT2EMOTION.</br>
 
 <img src = "img/total_emocoes.JPG">
 ### 4. Resultados
