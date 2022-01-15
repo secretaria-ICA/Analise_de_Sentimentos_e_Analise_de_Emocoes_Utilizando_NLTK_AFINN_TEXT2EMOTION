@@ -93,9 +93,9 @@ A classificação das emoções e sentimentos foi aplicada nos textos sem fazer 
 
 <img src = "img/df_colunas_com_classific.JPG">
 
-Em seguida foi feita uma análise do tamanho dos texto dos tweets no arquivo.</br>
+Em seguida foi feita uma análise do tamanho dos texto dos tweets.</br>
 
-<img src = "img/figura_tamanho_texto.JPG">
+<img src = "img/tamanho_texto.JPG">
 
 O quantitativo de sentimentos utilizando AFINN.</br>
 
