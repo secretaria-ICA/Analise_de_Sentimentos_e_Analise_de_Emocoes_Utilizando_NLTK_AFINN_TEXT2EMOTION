@@ -81,7 +81,7 @@ Dentro da Inteligência Artificial existe uma área que busca desenvolver a capa
 ### Base de dados
 
 A base de dados utilizada foi extraída do Tweeter utilizando a biblioteca [tweepy v3.10.0](https://docs.tweepy.org/en/v3.10.0/). </br>
-As extrações foram feitas diariamente, gerando arquivos com 15.000 tweets.</br>
+As extrações foram feitas diariamente, gerando arquivos com 15.000 tweets em média.</br>
 Os tweets foram extraídos, no período de 03/11/2021 até 23/12/2021, sem selecionar um assunto específico, apenas selecionando o país, neste caso os 
 EUA e o idioma inglês, filtrando os retweets, pois o objetivo é analisar apenas os sentimentos e emoções, sem considerar as palavras mais comuns. </br>
 Ao término da extração os arquivos foram concatenados em um único arquivo com 210.303 linhas [tweets_csv_projeto.zip](https://github.com/fmansantos/TCC-BI-MASTER/blob/main/tweets_csv_projeto.zip).
