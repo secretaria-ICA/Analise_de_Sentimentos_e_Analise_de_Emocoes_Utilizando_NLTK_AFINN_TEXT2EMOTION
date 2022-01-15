@@ -89,6 +89,7 @@ Ao término da extração os arquivos foram concatenados em um único arquivo co
 <img src = "img/tweets_csv_projeto.JPG">
 
 A fase seguinte é a execução da classificação dos sentimentos em positivo, negativo , neutro e a classificação das emoções em medo, felicidade, tristeza, raiva, surpresa.</br>
+A classificação das emoções e sentimentos foi aplicada nos textos sem fazer pré-processamento, para preservar os textos originias.</br> 
 
 <img src = "img/df_colunas_com_classificacao.JPG">
 
