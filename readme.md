@@ -97,6 +97,18 @@ Em seguida foi feita uma análise do tamanho dos texto dos tweets.</br>
 
 <img src = "img/tamanho_texto.JPG">
 
+Tamanho do texto por sentimentos com o label SentimentAFINN_class.</br>
+
+<img src = "img/tamanho_texto_afinn_class.JPG">
+
+Tamanho do texto por sentimentos com o label SentimentNLTK_class.</br>
+
+<img src = "img/tamanho_texto_nltk_class.JPG">
+
+Tamanho do texto por emoções.</br>
+
+<img src = "img/tamanho_texto_emocoes.JPG">
+
 O quantitativo de sentimentos utilizando AFINN.</br>
 
 <img src = "img/total_sentimentos_afinn.JPG">
