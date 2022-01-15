@@ -92,6 +92,11 @@ A fase seguinte é a execução da classificação dos sentimentos em positivo, 
 
 <img src = "img/df_colunas_com_classificacao.JPG">
 
+Em seguida foi feita uma análise do tamanho dos texto dos tweets no arquivo.
+
+<img src = "img/figura_tamanho_texto.JPG">
+
+
 ### 4. Resultados
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
