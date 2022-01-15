@@ -111,6 +111,9 @@ O quantitativo de emoções utilizando o TEXT2EMOTION.</br>
 
 Observamos pelas análises acima que os tweets em sua maioria possuem  10 palavras e que a segunda maior quantidade está em torno de 20 palavras.</br>
 Quanto a classificação de sentimentos quanto analisamos o label SentimentAFINN_class, verificamos que existem mais sentimentos neutros com os positivos em seguida com pouca diferença. Quando analisamos o label SentimentNLTK_class, verificamos que os sentimentos positivos são estão em maoiria seguidos pelos sentimentos neutros desta vez com uma diferença um pouco maior do que a verificada com o label SentimentAFINN_class, já os sentimentos negativos nos dois casos apresentam quantidades equivalentes.</br>
+Analisando o gráfico de emoções verificamos que a emoção predominante é felicidadecom surpresa em segundo lugar com medo em terceiro lugar. Um fato interassante é que a emoção medo e os sentimento negativo nos dois labels possuem valores semelhantes, o que pode indicar alguma correlação entre o sentimento negativo e a emoção medo. 
+
+
 ### 4. Resultados
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
