@@ -128,7 +128,7 @@ Analisando a quantidade de caracteres por sentimento, verificamos que nos labels
 Analisando o tamanho do texto para as emoções verificamos que a emoção felicidade apresenta uma garnde parte entre 50 e 60 caracteres enquanto o medo possui a maioria com 150 caracteres.</br>
 Quando analisamos os quantitaivos dos sentimentos verificamos que o label SentimentAFINN_class, apresenta mais sentimentos neutros com os positivos em seguida com pouca diferença. Quando analisamos o label SentimentNLTK_class, verificamos que os sentimentos positivos são a  maoiria seguidos pelos sentimentos neutros desta vez com uma diferença um pouco maior do que a verificada com o label SentimentAFINN_class, já os sentimentos negativos nos dois casos apresentam quantidades equivalentes.</br>
 Analisando o gráfico de emoções verificamos que a emoção predominante é felicidadecom surpresa em segundo lugar com medo em terceiro lugar.</br>
-Um fato interassante é que a emoção medo e os sentimento negativo nos dois labels possuem valores semelhantes, o que pode indicar alguma correlação entre o sentimento negativo e a emoção medo. Da mesma forma o sentimento positivo nos dois labels apresentam valores equiavalentes  e a emação felicidade também apresenta um valor equivalente a o sentimento positivo.</br>
+Um fato interassante é que a emoção medo e os sentimento negativo nos dois labels possuem valores semelhantes, o que pode indicar alguma correlação entre o sentimento negativo e a emoção medo. Da mesma forma o sentimento positivo nos dois labels apresentam valores equiavalentes  e a emoção felicidade também apresenta um valor equivalente a o sentimento positivo.</br>
 
 
 ### 4. Resultados
