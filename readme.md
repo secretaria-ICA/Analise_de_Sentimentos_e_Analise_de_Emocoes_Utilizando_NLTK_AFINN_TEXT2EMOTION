@@ -108,6 +108,8 @@ O quantitativo de sentimentos utilizando NLTK.</br>
 O quantitativo de emoções utilizando o TEXT2EMOTION.</br>
 
 <img src = "img/total_emocoes.JPG">
+
+
 ### 4. Resultados
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
