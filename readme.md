@@ -88,7 +88,9 @@ Ao término da extração os arquivos foram concatenados em um único arquivo co
 
 <img src = "img/tweets_csv_projeto.JPG">
 
-Após a concatenação exe
+A fase seguinte é a execução da classificação dos sentimentos em positivo, negativo ou neutro ou neutro e classificação das emoções em medo, felicidade, tristeza, raiva e surpresa.
+
+<img src = "img/colunas_com_classificacao.JPG">
 
 ### 4. Resultados
 
