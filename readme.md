@@ -123,8 +123,10 @@ O quantitativo de emoções utilizando o TEXT2EMOTION.</br>
 
 Observamos pelas análises acima que o tamanho do texto em cerca de 10.000 tweets é de 50 caracteres e um pouco de 40.000 tweets possuem quase os 150 caracteres .</br>
 Analisando a quantidade de caracteres por sentimento, verificamos que nos labels SentimentAFINN_class e SentimentNLTK_class o sentimeto positivo apresenta mais caracteres seguido pelo sentimento neutro.</br>
-Quanto a classificação de sentimentos quanto analisamos o label SentimentAFINN_class, verificamos que existem mais sentimentos neutros com os positivos em seguida com pouca diferença. Quando analisamos o label SentimentNLTK_class, verificamos que os sentimentos positivos são estão em maoiria seguidos pelos sentimentos neutros desta vez com uma diferença um pouco maior do que a verificada com o label SentimentAFINN_class, já os sentimentos negativos nos dois casos apresentam quantidades equivalentes.</br>
-Analisando o gráfico de emoções verificamos que a emoção predominante é felicidadecom surpresa em segundo lugar com medo em terceiro lugar. Um fato interassante é que a emoção medo e os sentimento negativo nos dois labels possuem valores semelhantes, o que pode indicar alguma correlação entre o sentimento negativo e a emoção medo. 
+Analisando o tamanho do texto para as emoções verificamos que a emoção felicidade apresenta uma garnde parte entre 50 e 60 caracteres enquanto o medo possui a maioria com 150 caracteres.</br>
+Quando analisamos os quantitaivos dos sentimentos verificamos que o label SentimentAFINN_class, apresenta mais sentimentos neutros com os positivos em seguida com pouca diferença. Quando analisamos o label SentimentNLTK_class, verificamos que os sentimentos positivos são a  maoiria seguidos pelos sentimentos neutros desta vez com uma diferença um pouco maior do que a verificada com o label SentimentAFINN_class, já os sentimentos negativos nos dois casos apresentam quantidades equivalentes.</br>
+Analisando o gráfico de emoções verificamos que a emoção predominante é felicidadecom surpresa em segundo lugar com medo em terceiro lugar.</br>
+Um fato interassante é que a emoção medo e os sentimento negativo nos dois labels possuem valores semelhantes, o que pode indicar alguma correlação entre o sentimento negativo e a emoção medo. 
 
 
 ### 4. Resultados
