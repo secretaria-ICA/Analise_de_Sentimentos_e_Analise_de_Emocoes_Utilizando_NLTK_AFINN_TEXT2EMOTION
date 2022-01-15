@@ -88,6 +88,7 @@ Ao término da extração os arquivos foram concatenados em um único arquivo co
 
 <img src = "img/tweets_csv_projeto.JPG">
 
+Após a concatenação exe
 
 ### 4. Resultados
 
