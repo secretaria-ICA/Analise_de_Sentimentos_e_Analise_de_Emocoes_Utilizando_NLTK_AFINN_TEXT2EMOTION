@@ -96,7 +96,17 @@ Em seguida foi feita uma análise do tamanho dos texto dos tweets no arquivo.
 
 <img src = "img/figura_tamanho_texto.JPG">
 
+O quantitativo de sentimentos utilizando AFINN
 
+<img src = "img/total_sentimentos_afinn.JPG">
+
+O quantitativo de sentimentos utilizando NLTK
+
+<img src = "img/total_sentinetos_nltk.JPG">
+
+O quantitativo de emoções utilizando o TEXT2EMOTION
+
+<img src = "img/total_emocoes.JPG">
 ### 4. Resultados
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
