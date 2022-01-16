@@ -139,6 +139,10 @@ Após a limpeza da base de dados foram geradas nuvens de palavras, agrupadas por
 
 ### NLP com Deep Learning para Analisar os Sentimentos e as Emoções
 
+A arquitetura de rede neural escolhida é a CNN + LSTM que combina a capacidade das redes CNN de filtrar as melhores características com a serialização ou temporização das redes LSTM, pois o texto é serial. </br>
+O Modelo foi treinado primeiro sem o embedding. Para melhorar o resultado da análise foi utilizado o embedding pré-treinado glove.twitter.27B.100d.txt (Transfer Learning), para textos de tweeter com 100 dimensões. </br>
+
+
 
 ### 4. Resultados
 
