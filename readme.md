@@ -169,7 +169,7 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
  <img src = "img/model_accuracy_loss_afinn_sem_embeding.JPG">
 
 <p float="left">
-  <img align="top" src="img/afinn_acuracia_sem_embedingn.PNG" width="400" />
+  <img align="top" src="img/afinn_acuracia_sem_embeding.PNG" width="400" />
   <img src="img/afinn_matriz_confusao_sem_embeding.PNG" width="400" /> 
  </p>
  
