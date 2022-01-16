@@ -143,10 +143,12 @@ A arquitetura de rede neural escolhida é a CNN + LSTM que combina a capacidade 
 O Modelo foi treinado primeiro sem o embedding. Para melhorar o resultado da análise foi utilizado o embedding pré-treinado glove.twitter.27B.100d.txt (Transfer Learning), para textos de tweeter com 100 dimensões. </br>
 
 
-
 ### 4. Resultados
+No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semelhante para o terinamento com NLTK, AFINN e TEXT2EMOTION.
 
+### Resultado do treinamento sem Embedding com NLTK
 
+<img src = "img/<img src = "img/total_sentinetos_nltk.JPG">.JPG", img src = "img/matriz_confusao_nltk_sem_embeding.JPG">
 
 
 
