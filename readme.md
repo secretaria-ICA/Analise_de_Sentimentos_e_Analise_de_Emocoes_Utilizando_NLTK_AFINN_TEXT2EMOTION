@@ -166,8 +166,12 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
  
  ### Resultado do Treinamento sem Embedding no AFINN
  
- 
- 
+ <img src = "img/model_accuracy_loss_afinn_sem_embeding.JPG">
+
+<p float="left">
+  <img align="top" src="img/acuracia_sem_embeding_afinn.PNG" width="400" />
+  <img src="img/afinn_matriz_confusao_sem_embeding.PNG" width="400" /> 
+ </p>
  
  ### Resultado do Treinamento com Embedding no AFINN 
  
