@@ -160,7 +160,7 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
 <img src = "img/model_accuracy_loss_nltk_com_embeding.JPG">
 
 <p float="left">
-  <img align="top" src="img/acuracia_com_embeding_nltk.PNG" width="400" />
+  <img align="top" src="img/nltk_acuracia_com_embeding.PNG" width="400" />
   <img src="img/nltk_matriz_confusao_com_embeding.PNG" width="400" /> 
  </p>
 
