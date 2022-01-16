@@ -185,12 +185,7 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
  
  ### Resultado do treinamento sem Embedding no TEXT2EMOTION
  
-  <img src = "img/model_accuracy_loss_afinn_sem_embeding.JPG">
-
-<p float="left">
-  <img align="top" src="img/afinn_acuracia_sem_embeding.PNG" width="400" />
-  <img src="img/afinn_matriz_confusao_sem_embeding.PNG" width="400" /> 
- </p>
+  
  
  
  ### Resultado do treinamento com Embedding no TEXT2EMOTION
