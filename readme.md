@@ -146,7 +146,7 @@ O Modelo foi treinado primeiro sem o embedding. Para melhorar o resultado da an�
 ### 4. Resultados
 No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semelhante para o terinamento com NLTK, AFINN e TEXT2EMOTION.
 
-### Resultado do treinamento sem Embedding no NLTK
+  ### Resultado do treinamento sem Embedding no NLTK
 
 <img src = "img/model_accuracy_loss_nltk_sem_embeding.JPG">
 
@@ -155,7 +155,7 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
   <img src="img/nltk_matriz_confusao_sem_embeding.PNG" width="400" /> 
  </p>
 
-### Resultado do treinamento com Embedding no NLTK
+ ### Resultado do treinamento com Embedding no NLTK
 
 <img src = "img/model_accuracy_loss_nltk_com_embeding.JPG">
 
@@ -163,6 +163,27 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
   <img align="top" src="img/nltk_acuracia_com_embeding.PNG" width="400" />
   <img src="img/nltk_matriz_confusao_com_embeding.PNG" width="400" /> 
  </p>
+ 
+ ### Resultado do treinamento sem Embedding no AFINN
+ 
+ 
+ 
+ 
+ ### Resultado do treinamento com Embedding no AFINN 
+ 
+ 
+ 
+ 
+ ### Resultado do treinamento sem Embedding no TEXT2EMOTION
+ 
+ 
+ 
+ 
+ ### Resultado do treinamento com Embedding no TEXT2EMOTION
+ 
+ 
+ 
+
 
 ### 5. Conclusões
 
