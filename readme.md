@@ -148,8 +148,7 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
 
 ### Resultado do treinamento sem Embedding com NLTK
 
-<img src = "img/<img src = "img/total_sentinetos_nltk.JPG">.JPG", img src = "img/matriz_confusao_nltk_sem_embeding.JPG">
-
+<img src = "img/nltk_acuracia_sem_embeding.JPG"> <img src = "img/matriz_confusao_nltk_sem_embeding.JPG">
 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
