@@ -133,7 +133,7 @@ Um fato interassante é que a emoção medo e os sentimento negativo nos dois la
 ### Pré-Precessamento do Texto
 
 A limpeza da base dedados consistiu na expansão das contrações, na conversão dos emoji em expressões aravés de um dicionário da biblioteca [emoji](https://pypi.org/project/emoji/), da remoção de  urls, hashtags, caracteres especiais, foi aplicada a lematização para buscar o contexto das palavras nos textos e as palavras foram convertidas para letras minúsculas.</br>
-Após a limpeza da base de dados foram geradas nuvens de palavras, agrupadas por sentimentos e emoções e também por unigramas, bigramas e trigramas. As nuvens de palavras foram geradas para cada classificador de sentimentos e também de emoções.</br>
+Após a limpeza da base de dados foram geradas nuvens de palavras, agrupadas por sentimentos e emoções e também por unigramas, bigramas e trigramas. As nuvens de palavras foram geradas para cada classificador de sentimentos e também de emoções, totalizando 33 nuvens de palavras que estão disponíveis nos notebooks.</br>
 
 
 
