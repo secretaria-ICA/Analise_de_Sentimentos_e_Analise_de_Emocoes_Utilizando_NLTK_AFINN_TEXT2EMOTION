@@ -130,8 +130,19 @@ Quando analisamos os quantitaivos dos sentimentos verificamos que o label Sentim
 Analisando o gráfico de emoções verificamos que a emoção predominante é felicidadecom surpresa em segundo lugar com medo em terceiro lugar.</br>
 Um fato interassante é que a emoção medo e os sentimento negativo nos dois labels possuem valores semelhantes, o que pode indicar alguma correlação entre o sentimento negativo e a emoção medo. Da mesma forma o sentimento positivo nos dois labels apresentam valores equiavalentes  e a emoção felicidade também apresenta um valor equivalente a o sentimento positivo.</br>
 
+### Pré-Precessamento do Texto
+
+A limpeza da base dedados consistiu na expansão das contrações, na conversão dos emoji em expressões aravés de um dicionário da biblioteca [emoji](https://pypi.org/project/emoji/), da remoção de  urls, hashtags, caracteres especiais, foi aplicada a lematização para buscar o contexto das palavras nos textos e as palavras foram convertidas para letras minúsculas.</br>
+Após a limpeza da base de dados foram geradas nuvens de palavras, agrupadas por sentimentos e emoções e também por unigramas, bigramas e trigramas. As nuvens de palavras foram geradas para cada classificador de sentimentos e também de emoções.</br>
+
+
+
 
 ### 4. Resultados
+
+
+
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin pulvinar nisl vestibulum tortor fringilla, eget imperdiet neque condimentum. Proin vitae augue in nulla vehicula porttitor sit amet quis sapien. Nam rutrum mollis ligula, et semper justo maximus accumsan. Integer scelerisque egestas arcu, ac laoreet odio aliquet at. Sed sed bibendum dolor. Vestibulum commodo sodales erat, ut placerat nulla vulputate eu. In hac habitasse platea dictumst. Cras interdum bibendum sapien a vehicula.
 
