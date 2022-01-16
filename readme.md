@@ -137,6 +137,7 @@ A limpeza da base dedados consistiu na expansão das contrações, na conversão
 Após a limpeza da base de dados foram geradas nuvens de palavras, agrupadas por sentimentos e emoções e por unigramas, bigramas e trigramas. As nuvens de palavras foram geradas para cada classificador de sentimentos e de emoções, totalizando 33 nuvens de palavras que estão disponíveis nos notebooks. Em todas as nuvens de palavras podem ser observados os emojis que foram convertidos para as expressões equivalentes. </br>
 
 
+### Deep Learning para analisar os sentimentos e emoções
 
 
 ### 4. Resultados
