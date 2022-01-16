@@ -131,7 +131,7 @@ Analisando o gráfico de emoções verificamos que a emoção predominante é fe
 Um fato interessante é que a emoção medo e os sentimento negativo nos dois labels possuem valores semelhantes, o que pode indicar alguma correlação entre o sentimento negativo e a emoção medo. Da mesma forma o sentimento positivo nos dois labels apresentam valores equivalente e a emoção felicidade também apresenta um valor equivalente ao sentimento positivo. </br>
 
 
-### Pré-Precessamento do Texto
+### Pré-Processamento do Texto
 
 A limpeza da base dedados consistiu na expansão das contrações, na conversão dos emoji em expressões através de um dicionário da biblioteca [emoji](https://pypi.org/project/emoji/), da remoção de urls, hashtags, caracteres especiais, foi aplicada a lematização para buscar o contexto das palavras nos textos e as palavras foram convertidas para letras minúsculas. </br>
 Após a limpeza da base de dados foram geradas nuvens de palavras, agrupadas por sentimentos e emoções e por unigramas, bigramas e trigramas. As nuvens de palavras foram geradas para cada classificador de sentimentos e de emoções, totalizando 33 nuvens de palavras que estão disponíveis nos notebooks. Em todas as nuvens de palavras podem ser observados os emojis que foram convertidos para as expressões equivalentes. </br>
