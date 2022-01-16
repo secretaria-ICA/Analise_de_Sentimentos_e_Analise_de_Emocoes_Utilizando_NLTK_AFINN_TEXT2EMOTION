@@ -123,17 +123,18 @@ O quantitativo de emoções utilizando o TEXT2EMOTION.</br>
 
 <img src = "img/total_emocoes.JPG">
 
-Observamos pelas análises acima que o tamanho do texto em cerca de 10.000 tweets é de 50 caracteres e um pouco de 40.000 tweets possuem quase os 150 caracteres .</br>
-Analisando a quantidade de caracteres por sentimento, verificamos que nos labels SentimentAFINN_class e SentimentNLTK_class o sentimeto positivo apresenta mais caracteres seguido pelo sentimento neutro.</br>
-Analisando o tamanho do texto para as emoções verificamos que a emoção felicidade apresenta uma garnde parte entre 50 e 60 caracteres enquanto o medo possui a maioria com 150 caracteres.</br>
-Quando analisamos os quantitaivos dos sentimentos verificamos que o label SentimentAFINN_class, apresenta mais sentimentos neutros com os positivos em seguida com pouca diferença. Quando analisamos o label SentimentNLTK_class, verificamos que os sentimentos positivos são a  maoiria seguidos pelos sentimentos neutros desta vez com uma diferença um pouco maior do que a verificada com o label SentimentAFINN_class, já os sentimentos negativos nos dois casos apresentam quantidades equivalentes.</br>
-Analisando o gráfico de emoções verificamos que a emoção predominante é felicidadecom surpresa em segundo lugar com medo em terceiro lugar.</br>
-Um fato interassante é que a emoção medo e os sentimento negativo nos dois labels possuem valores semelhantes, o que pode indicar alguma correlação entre o sentimento negativo e a emoção medo. Da mesma forma o sentimento positivo nos dois labels apresentam valores equiavalentes  e a emoção felicidade também apresenta um valor equivalente a o sentimento positivo.</br>
+Observamos pelas análises acima que o tamanho do texto em cerca de 10.000 tweets é de 50 caracteres e um pouco de 40.000 tweets possuem quase os 150 caracteres. </br>
+Analisando a quantidade de caracteres por sentimento, verificamos que nos labels SentimentAFINN_class e SentimentNLTK_class o sentimento positivo apresenta mais caracteres seguido pelo sentimento neutro. </br>
+Analisando o tamanho do texto para as emoções verificamos que a emoção felicidade apresenta uma garnde parte entre 50 e 60 caracteres enquanto o medo possui a maioria com 150 caracteres. </br>
+Quando analisamos os quantitativos dos sentimentos verificamos que o label SentimentAFINN_class, apresenta mais sentimentos neutros com os positivos em seguida com pouca diferença. Quando analisamos o label SentimentNLTK_class, verificamos que os sentimentos positivos são a maioria seguidos pelos sentimentos neutros desta vez com uma diferença um pouco maior do que a verificada com o label SentimentAFINN_class, já os sentimentos negativos nos dois casos apresentam quantidades equivalentes.</br>
+Analisando o gráfico de emoções verificamos que a emoção predominante é felicidade com surpresa em segundo lugar com medo em terceiro lugar. </br>
+Um fato interessante é que a emoção medo e os sentimento negativo nos dois labels possuem valores semelhantes, o que pode indicar alguma correlação entre o sentimento negativo e a emoção medo. Da mesma forma o sentimento positivo nos dois labels apresentam valores equivalente e a emoção felicidade também apresenta um valor equivalente ao sentimento positivo. </br>
+
 
 ### Pré-Precessamento do Texto
 
-A limpeza da base dedados consistiu na expansão das contrações, na conversão dos emoji em expressões aravés de um dicionário da biblioteca [emoji](https://pypi.org/project/emoji/), da remoção de  urls, hashtags, caracteres especiais, foi aplicada a lematização para buscar o contexto das palavras nos textos e as palavras foram convertidas para letras minúsculas.</br>
-Após a limpeza da base de dados foram geradas nuvens de palavras, agrupadas por sentimentos e emoções e também por unigramas, bigramas e trigramas. As nuvens de palavras foram geradas para cada classificador de sentimentos e também de emoções, totalizando 33 nuvens de palavras que estão disponíveis nos notebooks. Em todas as nuvens de palavras podem ser observados os emojis que foram convertidos para as expressões equivalentes.</br>
+A limpeza da base dedados consistiu na expansão das contrações, na conversão dos emoji em expressões através de um dicionário da biblioteca [emoji](https://pypi.org/project/emoji/), da remoção de urls, hashtags, caracteres especiais, foi aplicada a lematização para buscar o contexto das palavras nos textos e as palavras foram convertidas para letras minúsculas. </br>
+Após a limpeza da base de dados foram geradas nuvens de palavras, agrupadas por sentimentos e emoções e por unigramas, bigramas e trigramas. As nuvens de palavras foram geradas para cada classificador de sentimentos e de emoções, totalizando 33 nuvens de palavras que estão disponíveis nos notebooks. Em todas as nuvens de palavras podem ser observados os emojis que foram convertidos para as expressões equivalentes. </br>
 
 
 
