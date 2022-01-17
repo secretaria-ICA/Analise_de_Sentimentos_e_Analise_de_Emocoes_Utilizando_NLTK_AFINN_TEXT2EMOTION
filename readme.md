@@ -195,7 +195,7 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
  
  ### Resultado do treinamento com Embedding no TEXT2EMOTION
  
-  <img src = "img/model_accuracy_loss_text2emotion_com_embeding.JPG">
+  <img src = "img/model_accuracy_loss_text2emotion_com__embeding.JPG">
 
 <p float="left">
   <img align="top" src="img/text2emotion_accuracy_com_embeding.PNG" width="430" />
