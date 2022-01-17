@@ -188,8 +188,8 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
    <img src = "img/model_accuracy_loss_text2emotion_sem_embeding.JPG">
 
 <p float="left">
-  <img align="top" src="img/text2emotion_accuracy_sem_embeding.PNG" width="470" />
-  <img src="img/text2emotion_matriz_confusao_sem_embedind.PNG" width="470" /> 
+  <img align="top" src="img/text2emotion_accuracy_sem_embeding.PNG" width="460" />
+  <img src="img/text2emotion_matriz_confusao_sem_embedind.PNG" width="460" /> 
  </p>
  
  
@@ -198,8 +198,8 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
   <img src = "img/model_accuracy_loss_text2emotion_com_embeding.JPG">
 
 <p float="left">
-  <img align="top" src="img/text2emotion_accuracy_com_embeding.PNG" width="470" />
-  <img src="img/text2emotion_matriz_confusao_com_embedind.PNG" width="470" /> 
+  <img align="top" src="img/text2emotion_accuracy_com_embeding.PNG" width="460" />
+  <img src="img/text2emotion_matriz_confusao_com_embedind.PNG" width="460" /> 
  </p>
  
 
