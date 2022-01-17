@@ -206,9 +206,14 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
 
 ### 5. Conclusões
 
+O objetivo deste trabalho está comparar os dois classificadores de sentimento AFINN e NLTK e do de emoções TEXT2EMOTION. Nacomparação entre os dois classificadores de sentimentos o AFINN teve melhor acurácia tanto sem embedding, 93,9% , quanto com embedding 94,2% em comparação com o NLTK. Quanto ao TEXT2EMOTION também apresentou um desempenho muito bom com uma acurácia acima de 90% com e sem embedding.
 
+### 6. Considerações Finais
+
+Gostaria de ageadecer a todos os professires do curso, em especial ao professor Leonardo Mendoza pelos ensinamentos e orientações neste trabalho.
 
 ---
+
 
 Matrícula: 201.190.260
 
