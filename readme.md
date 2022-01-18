@@ -151,8 +151,8 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
 <img src = "img/model_accuracy_loss_nltk_sem_embeding.JPG">
 
 <p float="left">
-  <img align="top" src="img/acuracia_sem_embeding_nltk.PNG" width="430" />
-  <img src="img/nltk_matriz_confusao_sem_embeding.PNG" width="430" /> 
+  <img align="top" src="img/acuracia_sem_embeding_nltk.PNG" width="410" />
+  <img src="img/nltk_matriz_confusao_sem_embeding.PNG" width="400" /> 
  </p>
 
  ### Resultado do Treinamento com Embedding no NLTK
@@ -160,8 +160,8 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
 <img src = "img/model_accuracy_loss_nltk_com_embeding.JPG">
 
 <p float="left">
-  <img align="top" src="img/nltk_acuracia_com_embeding.PNG" width="430" />
-  <img src="img/nltk_matriz_confusao_com_embeding.PNG" width="430" /> 
+  <img align="top" src="img/nltk_acuracia_com_embeding.PNG" width="410" />
+  <img src="img/nltk_matriz_confusao_com_embeding.PNG" width="400" /> 
  </p>
  
  ### Resultado do Treinamento sem Embedding no AFINN
@@ -169,8 +169,8 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
  <img src = "img/model_accuracy_loss_afinn_sem_embeding.JPG">
 
 <p float="left">
-  <img align="top" src="img/afinn_acuracia_sem_embeding.PNG" width="430" />
-  <img src="img/afinn_matriz_confusao_sem_embeding.PNG" width="430" /> 
+  <img align="top" src="img/afinn_acuracia_sem_embeding.PNG" width="410" />
+  <img src="img/afinn_matriz_confusao_sem_embeding.PNG" width="400" /> 
  </p>
  
  ### Resultado do Treinamento com Embedding no AFINN 
@@ -178,8 +178,8 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
  <img src = "img/model_accuracy_loss_afinn_com_embeding.JPG">
 
 <p float="left">
-  <img align="top" src="img/afinn_acuracia_com_embeding.PNG" width="430" />
-  <img src="img/afinn_matriz_confusao_com_embeding.PNG" width="430" /> 
+  <img align="top" src="img/afinn_acuracia_com_embeding.PNG" width="410" />
+  <img src="img/afinn_matriz_confusao_com_embeding.PNG" width="400" /> 
  </p>
  
  
@@ -188,8 +188,8 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
  <img src = "img/model_accuracy_loss_text2emotion_sem_embeding.JPG">
 
 <p float="left">
-  <img align="top" src="img/text2emotion_accuracy_sem_embeding.PNG" width="430" />
-  <img src="img/text2emotion_matriz_confusao_sem_embedind.PNG" width="430" /> 
+  <img align="top" src="img/text2emotion_accuracy_sem_embeding.PNG" width="410" />
+  <img src="img/text2emotion_matriz_confusao_sem_embedind.PNG" width="400" /> 
  </p>
  
  
@@ -198,8 +198,8 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
   <img src = "img/model_accuracy_loss_text2emotion_com__embeding.JPG">
 
 <p float="left">
-  <img align="top" src="img/text2emotion_accuracy_com_embeding.PNG" width="430" />
-  <img src="img/text2emotion_matriz_confusao_com_embedind.PNG" width="430" /> 
+  <img align="top" src="img/text2emotion_accuracy_com_embeding.PNG" width="410" />
+  <img src="img/text2emotion_matriz_confusao_com_embedind.PNG" width="400" /> 
  </p>
  
 
