@@ -8,7 +8,6 @@
 
 Trabalho apresentado ao curso [BI MASTER](https://ica.puc-rio.ai/bi-master) como pré-requisito para conclusão de curso e obtenção de crédito na disciplina "Projetos de Sistemas Inteligentes de Apoio à Decisão".
 
-
 Link para os códigos: 
 - [tcc_fabio_tweets_filter_retweets.ipynb](https://github.com/fmansantos/TCC-BI-MASTER/blob/main/tcc_fabio_tweets_filter_retweets.ipynb)
 - [tcc_fabio_tweets_concat_csv.ipynb](https://github.com/fmansantos/TCC-BI-MASTER/blob/main/tcc_fabio_tweets_concat_csv.ipynb)
@@ -24,7 +23,6 @@ Link para os arquivos utilizados:
 ---
 
 ### Resumo
-
 
 Este trabalho buscou explorar o processo de data mining desde a obtenção da informação, extraindo diariamente 15.000 tweets, com a filtragem dos retweets.</br>
 Após a extração os arquivos foram concatenados em um único arquivo com 210.303 registros. </br>
