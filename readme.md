@@ -21,11 +21,9 @@ Link para os arquivos utilizados:
 - [tweets_csv_projeto.zip](https://github.com/fmansantos/TCC-BI-MASTER/blob/main/tweets_csv_projeto.zip)
 - [tweets_csv_classified.zip](https://github.com/fmansantos/TCC-BI-MASTER/blob/main/tweets_csv_classified.zip)
 
-
 ---
 
 ### Resumo
-
 
 
 Este trabalho buscou explorar o processo de data mining desde a obtenção da informação, extraindo diariamente 15.000 tweets, com a filtragem dos retweets.</br>
@@ -33,7 +31,6 @@ Após a extração os arquivos foram concatenados em um único arquivo com 210.3
 Este arquivo único foi analisado e teve os sentimentos e emoções classificados. </br>
 Para a análise de sentimentos foram utilizados o NLTK e o AFINN, para a análise de emoções foi utilizado o TEXT2EMOTION, com as classificações gravadas em arquivos para análise posterior. </br>
 Após a classificação dos sentimentos e emoções, foram aplicados os pré-processamentos para retirar o que não serve para as análises de sentimentos e emoções feitas com a utilização de redes neurais. </br>
-
 
 ### 1. Introdução
 
@@ -61,8 +58,6 @@ Dentro da Inteligência Artificial existe uma área que busca desenvolver a capa
 - Lematização
 - Análise de sentimentos e emoções
 - Deep Learning redes CNN e LSTM com Embedings 
-
-
 
 ### 3. Modelagem
 
@@ -130,20 +125,18 @@ Quando analisamos os quantitativos dos sentimentos verificamos que o label Senti
 Analisando o gráfico de emoções verificamos que a emoção predominante é felicidade com surpresa em segundo lugar com medo em terceiro lugar. </br>
 Um fato interessante é que a emoção medo e os sentimento negativo nos dois labels possuem valores semelhantes, o que pode indicar alguma correlação entre o sentimento negativo e a emoção medo. Da mesma forma o sentimento positivo nos dois labels apresentam valores equivalente e a emoção felicidade também apresenta um valor equivalente ao sentimento positivo. </br>
 
-
 ### Pré-Processamento do Texto
 
 A limpeza da base de dados consistiu na expansão das contrações, na conversão dos emoji em expressões através de um dicionário da biblioteca [emoji](https://pypi.org/project/emoji/), da remoção de urls, hashtags, caracteres especiais, foi aplicada a lematização para buscar o contexto das palavras nos textos e as palavras foram convertidas para letras minúsculas. </br>
 Após a limpeza da base de dados foram geradas nuvens de palavras, agrupadas por sentimentos e emoções e por unigramas, bigramas e trigramas. As nuvens de palavras foram geradas para cada classificador de sentimentos e de emoções, totalizando 33 nuvens de palavras que estão disponíveis nos notebooks. Em todas as nuvens de palavras podem ser observados os emojis que foram convertidos para as expressões equivalentes. </br>
-
 
 ### NLP com Deep Learning para Analisar os Sentimentos e as Emoções
 
 A arquitetura de rede neural escolhida é a CNN + LSTM que combina a capacidade das redes CNN de filtrar as melhores características com a serialização ou temporização das redes LSTM, pois o texto é serial. </br>
 O Modelo foi treinado primeiro sem o embedding. Para melhorar o resultado da análise foi utilizado o embedding pré-treinado glove.twitter.27B.100d.txt (Transfer Learning), para textos de tweeter com 100 dimensões. </br>
 
-
 ### 4. Resultados
+
 No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semelhante para o treinamento com NLTK, AFINN e TEXT2EMOTION.
 
   ### Resultado do Treinamento sem Embedding no NLTK
@@ -210,7 +203,6 @@ Na comparação entre os dois classificadores de sentimentos o AFINN teve melhor
 Gostaria de agradecer a todos os professores do curso, em especial ao professor Leonardo Mendoza pelos ensinamentos e orientações neste trabalho.
 
 ---
-
 
 Matrícula: 201.190.260
 
