@@ -69,7 +69,7 @@ Dentro da Inteligência Artificial existe uma área que busca desenvolver a capa
 - Pré-pocessamento de texto com remoção de stopwords, caracteres e números, expansão de contrações e a aplicação da biblioteca [emoji](https://pypi.org/project/emoji/), para converter emoji em expressões.
 - Aplicação de algoritmos de deep learning para realizar as análises de sentimento utilizando NLTK sem embedings e com embedings
 - Aplicação de algoritmos de deep learning para realizar as análises de sentimento utilizando AFINN sem embedings e com embedings
-- Aplicação de algoritmos de deep learning para realizar as análises de sentimento utilizando Text2Emotion sem embedings e com embedings
+- Aplicação de algoritmos de deep learning para realizar as análises de sentimento utilizando Text2Emotion sem embedings e com embedings</br>
 
 ### Base de dados
 
