@@ -181,8 +181,7 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
   <img align="top" src="img/afinn_acuracia_com_embeding.PNG" width="410" />
   <img src="img/afinn_matriz_confusao_com_embeding.PNG" width="400" /> 
  </p>
- 
- 
+  
  ### Resultado do treinamento sem Embedding no TEXT2EMOTION
   
  <img src = "img/model_accuracy_loss_text2emotion_sem_embeding.JPG">
@@ -191,8 +190,7 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
   <img align="top" src="img/text2emotion_accuracy_sem_embeding.PNG" width="410" />
   <img src="img/text2emotion_matriz_confusao_sem_embedind.PNG" width="400" /> 
  </p>
- 
- 
+  
  ### Resultado do treinamento com Embedding no TEXT2EMOTION
  
   <img src = "img/model_accuracy_loss_text2emotion_com__embeding.JPG">
@@ -202,8 +200,6 @@ No uso da rede neural CNN-LSTM, os parâmetros foram configurados de forma semel
   <img src="img/text2emotion_matriz_confusao_com_embedind.PNG" width="400" /> 
  </p>
  
-
-
 ### 5. Conclusões
 
 O objetivo deste trabalho está em comparar os dois classificadores de sentimento AFINN e NLTK e de emoções TEXT2EMOTION.</br>
