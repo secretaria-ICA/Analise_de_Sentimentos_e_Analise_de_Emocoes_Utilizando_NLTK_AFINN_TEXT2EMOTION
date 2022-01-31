@@ -71,6 +71,8 @@ Dentro da Inteligência Artificial existe uma área que busca desenvolver a capa
 - Aplicação de algoritmos de deep learning para realizar as análises de sentimento utilizando AFINN sem embedings e com embedings
 - Aplicação de algoritmos de deep learning para realizar as análises de sentimento utilizando Text2Emotion sem embedings e com embedings</br>
 
+
+
 ### Base de dados
 
 A base de dados utilizada foi extraída do Twitter utilizando a biblioteca [tweepy v3.10.0](https://docs.tweepy.org/en/v3.10.0/). </br>
