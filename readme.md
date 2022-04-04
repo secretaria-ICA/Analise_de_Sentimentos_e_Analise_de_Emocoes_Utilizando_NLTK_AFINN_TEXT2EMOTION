@@ -1,5 +1,5 @@
 <!-- antes de enviar a versão final, solicitamos que todos os comentários, colocados para orientação ao aluno, sejam removidos do arquivo -->
-# Análise de Sentimentos  Comparando a Acurácia na Utilização do NLTK, AFINN e Análise de Emoções Utilizando o TEXT2EMOTION
+# Análise_de_Sentimentos_Comparando_a_Acurácia_na_Utilização_do_NLTK_e_AFINN_e_Análise_de_Emoções_Utilizando_o_TEXT2EMOTION
 
 #### Aluno: [Fábio Mendonça dos Santos](https://github.com/fmansantos)
 #### Orientador: [Leonardo Alfredo Forero Mendonza](https://github.com/leofome8) 
